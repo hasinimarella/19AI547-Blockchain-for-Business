@@ -57,6 +57,12 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
